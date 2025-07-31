@@ -26,6 +26,7 @@ share/python-wheels/
 *.egg
 MANIFEST
 mit-bih-normal-sinus-rhythm-database-1.0.0
+mit-bih-arrhythmia-database-1.0.0
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
